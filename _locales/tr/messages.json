@@ -1,0 +1,608 @@
+{
+   "ACCESS_CODE": {
+      "message": "Erişim kodu"
+   },
+   "ACCESS_CODE_TIMER": {
+      "message": "Bu erişim kodunun süresi $1 saniye içinde sona erecek"
+   },
+   "ACTIONBAR_FEEDBACK": {
+      "message": "Geri Bildirim"
+   },
+   "ALL_CONNECTIONS": {
+      "message": "Tüm bağlantılar"
+   },
+   "ASK_PIN_DIALOG_CONFIRM_LABEL": {
+      "message": "PIN'i yeniden yazın"
+   },
+   "ASK_PIN_DIALOG_LABEL": {
+      "message": "PIN"
+   },
+   "CANCEL": {
+      "message": "İptal"
+   },
+   "CLEAR_HISTORY": {
+      "message": "Geçmişi temizle"
+   },
+   "CLOSE": {
+      "message": "Kapat"
+   },
+   "CLOSE_PROMPT": {
+      "message": "Bu sayfadan ayrılırsanız Chrome Uzaktan Masaüstü oturumunuz sonlanır."
+   },
+   "CLOSE_WINDOW": {
+      "message": "Pencereyi kapat"
+   },
+   "COMPANY_NAME": {
+      "message": "Google Inc."
+   },
+   "CONFIRM_HOST_DELETE": {
+      "message": "$1 adlı ana bilgisayara uzaktan bağlantıları devre dışı bırakmak istediğinizden emin misiniz? Daha sonra fikrinizi değiştirirseniz, bağlantıları yeniden etkinleştirmek için söz konusu bilgisayarı ziyaret etmeniz gerekecektir."
+   },
+   "CONNECTION_FAILED": {
+      "message": "Bağlantı başarısız oldu"
+   },
+   "CONNECTION_FROM_HEADER": {
+      "message": "Kimden"
+   },
+   "CONNECTION_HISTORY_TITLE": {
+      "message": "Bağlantı Geçmişi"
+   },
+   "CONNECTION_QUALITY_FAIR": {
+      "message": "Orta"
+   },
+   "CONNECTION_QUALITY_GOOD": {
+      "message": "İyi"
+   },
+   "CONNECTION_QUALITY_POOR": {
+      "message": "Kötü"
+   },
+   "CONNECTION_TO_HEADER": {
+      "message": "Kime"
+   },
+   "CONNECT_ANYWAY": {
+      "message": "Yine de bağlan"
+   },
+   "CONNECT_BUTTON": {
+      "message": "Bağlan"
+   },
+   "CONTINUE_BUTTON": {
+      "message": "Devam Et"
+   },
+   "CONTINUE_PROMPT": {
+      "message": "Bu makineyi şu anda başka bir kullanıcıyla paylaşıyorsunuz. Paylaşmaya devam etmek istiyor musunuz?"
+   },
+   "CONTROLLER_NAME": {
+      "message": "Chrome Uzaktan Masaüstü Ana Makine Denetleyicisi"
+   },
+   "COPYRIGHT": {
+      "message": "Telif Hakkı 2013 Google Inc. Tüm Hakları Saklıdır."
+   },
+   "DELETE_ALL_PAIRED_CLIENTS": {
+      "message": "Tümünü sil"
+   },
+   "DELETE_PAIRED_CLIENT": {
+      "message": "Sil"
+   },
+   "DESCRIPTION_AUTHORIZE": {
+      "message": "Devam etmek için öncelikle bilgisayarınıza genişletilmiş erişim izinleri vermelisiniz. Bunu yalnızca bir kez yapmanız yeterlidir."
+   },
+   "DESCRIPTION_CONNECT": {
+      "message": "Bilgisayarına erişmek istediğiniz kullanıcıdan, 'Şimdi Paylaş' seçeneğini tıklamasını ve size erişim kodunu vermesini isteyin."
+   },
+   "DESCRIPTION_HOME": {
+      "message": "Chrome Uzaktan Masaüstü, bilgisayarınızı Web üzerinden güvenli bir şekilde paylaşabilmenize olanak sağlar. Her iki kullanıcının da Chrome Uzaktan Masaüstü uygulamasını çalıştırıyor olması gerekir. Uygulamayı $1 adresinde bulabilirsiniz."
+   },
+   "DESCRIPTION_THIRD_PARTY_AUTH": {
+      "message": "Uzak ana makine üçüncü taraf bir web sitesine kimlik doğrulama işlemi yapmanızı gerektiriyor. Devam etmek üzere şu adrese erişim için Chrome Uzaktan Masaüstü'ne ek izinler vermelisiniz:"
+   },
+   "DISABLE_HOST": {
+      "message": "Devre dışı bırak"
+   },
+   "DISCONNECT_MYSELF_BUTTON": {
+      "message": "Bağlantıyı kes"
+   },
+   "DISPLAY_SERVICE_NAME": {
+      "message": "Chrome Uzaktan Masaüstü Hizmeti"
+   },
+   "DURATION_HEADER": {
+      "message": "Süre"
+   },
+   "ERROR_APP_NOT_AUTHORIZED": {
+      "message": "Bu uygulamayı çalıştırmak için izniniz yok."
+   },
+   "ERROR_AUTHENTICATION_FAILED": {
+      "message": "Kimlik doğrulama başarısız oldu. Lütfen Chrome Uzaktan Masaüstü'nde tekrar oturum açın."
+   },
+   "ERROR_BAD_PLUGIN_VERSION": {
+      "message": "Bazı gerekli bileşenler eksik. Lütfen yazılımın en son sürümünü yüklediğinizden emin olun ve tekrar deneyin."
+   },
+   "ERROR_HOST_IS_OFFLINE": {
+      "message": "Uzaktan bağlanacağınız bilgisayar, bağlantı isteklerine yanıt vermiyor. Lütfen bu bilgisayarın çevrimiçi olduğunu doğrulayın ve tekrar deneyin."
+   },
+   "ERROR_HOST_OVERLOAD": {
+      "message": "Bir kullanıcı geçersiz PIN ile bağlanmaya çalıştığından uzak bilgisayara yapılan bağlantılar geçici olarak engellenmiştir. Lütfen daha sonra tekrar deneyin."
+   },
+   "ERROR_HOST_REGISTRATION_FAILED": {
+      "message": "Bu bilgisayar kaydettirilemedi."
+   },
+   "ERROR_INCOMPATIBLE_PROTOCOL": {
+      "message": "Uyumsuz bir protokol sürümü algılandı. Lütfen her iki bilgisayara da yazılımın en son sürümünü yüklediğinizden emin olun ve tekrar deneyin."
+   },
+   "ERROR_INVALID_ACCESS_CODE": {
+      "message": "Erişim kodu geçersiz. Lütfen tekrar deneyin."
+   },
+   "ERROR_INVALID_HOST_DOMAIN": {
+      "message": "Politika ayarları bu bilgisayarın bir Chrome Uzaktan Masaüstü ana bilgisayarı olarak paylaşılmasına izin vermiyor. Yardım için sistem yöneticinizle iletişim kurun."
+   },
+   "ERROR_MISSING_PLUGIN": {
+      "message": "Bazı gerekli bileşenler eksik. Lütfen Google Chrome'un son sürümünü çalıştırdığınızdan emin olun ve tekrar deneyin."
+   },
+   "ERROR_NETWORK_FAILURE": {
+      "message": "Ağa bağlanılamıyor. Lütfen cihazınızın çevrimiçi olduğunu kontrol edin."
+   },
+   "ERROR_NOT_AUTHENTICATED": {
+      "message": "Chrome Uzaktan Masaüstü'nde oturum açmadınız. Lütfen oturum açın ve tekrar deneyin."
+   },
+   "ERROR_NOT_AUTHORIZED": {
+      "message": "Bu işlemi gerçekleştirmek için izniniz yok."
+   },
+   "ERROR_P2P_FAILURE": {
+      "message": "Ana bilgisayara erişilemiyor. Bu sorun, kullandığınız ağın yapılandırmasından kaynaklanıyor olabilir."
+   },
+   "ERROR_SERVICE_UNAVAILABLE": {
+      "message": "Hizmet geçici olarak kullanılamıyor. Lütfen daha sonra tekrar deneyin."
+   },
+   "ERROR_UNEXPECTED": {
+      "message": "Beklenmeyen bir hata oluştu. Lütfen bu sorunu geliştiricilere bildirin."
+   },
+   "EXIT_FULL_SCREEN": {
+      "message": "Tam ekrandan çık"
+   },
+   "FEEDBACK_ABANDON_FAILED": {
+      "message": "Uygulama sıfırlanamadı. Hâlâ bir hata raporu gönderebilirsiniz."
+   },
+   "FEEDBACK_ABANDON_HOST": {
+      "message": "Uygulamayı sıfırlayın. Kaydedilmemiş çalışmalarınızın tümünü kaybedeceksiniz."
+   },
+   "FEEDBACK_CONSENT": {
+      "message": "Daha ayrıntılı bilgi almak üzere sizinle iletişim kurabilmemiz için e-posta adresiniz gönderdiğiniz geri bildirimlere eklenecektir."
+   },
+   "FEEDBACK_CONSENT_TITLE": {
+      "message": "Sorun bildir"
+   },
+   "FEEDBACK_INCLUDE_LOGS": {
+      "message": "Sonunuzu çözmemize yardımcı olmak için uygulama günlüklerini ekleyin (günlükler gizli bilgiler içerebilir)."
+   },
+   "FEEDBACK_PRIVACY_INFORMATION1": {
+      "message": "Uygulama günlükleri, kimliğiniz (e-posta adresi) ve Google Drive'daki dosyalarla klasörlerin adları ve özellikleri dahil olmak üzere, bazı gizli bilgiler içerebilir."
+   },
+   "FEEDBACK_PRIVACY_INFORMATION2": {
+      "message": "Bu bilgi yalnızca bildirdiğiniz sorunun teşhisi için kullanılır, yalnızca raporunuzu araştıran kişi tarafından görülebilir ve en fazla 30 gün tutulur."
+   },
+   "FOOTER_CONNECTING": {
+      "message": "Bağlanıyor..."
+   },
+   "FOOTER_WAITING": {
+      "message": "bağlantı bekleniyor..."
+   },
+   "FULL_SCREEN": {
+      "message": "Tam ekran"
+   },
+   "GET_STARTED": {
+      "message": "Başlayın"
+   },
+   "HANGOUTS_CONFIRM_DIALOG_ACCEPT": {
+      "message": "Kabul et"
+   },
+   "HANGOUTS_CONFIRM_DIALOG_DECLINE": {
+      "message": "Reddet"
+   },
+   "HANGOUTS_CONFIRM_DIALOG_MESSAGE_1": {
+      "message": "Bu Hangout'un katılımcılarından biri bilgisayarınızı kontrol ederek size yardımcı olmayı teklif etti. Bu teklifi kabul ederseniz:"
+   },
+   "HANGOUTS_CONFIRM_DIALOG_MESSAGE_2": {
+      "message": "Size yardımcı olan kişi farenizi ve klavyenizi kontrol edebilecektir."
+   },
+   "HANGOUTS_CONFIRM_DIALOG_MESSAGE_3": {
+      "message": "İstediğiniz zaman sonlandırabilirsiniz."
+   },
+   "HELP": {
+      "message": "Yardım"
+   },
+   "HOME_ACCESS_BUTTON": {
+      "message": "Eriş"
+   },
+   "HOME_ACCESS_DESCRIPTION": {
+      "message": "Paylaşılan bir bilgisayarı görün ve denetleyin."
+   },
+   "HOME_DAEMON_ACTIVE_MESSAGE": {
+      "message": "Chrome Uzaktan Masaüstü uygulamasını kullanarak bu bilgisayara güvenli bir şekilde erişebilirsiniz."
+   },
+   "HOME_DAEMON_CHANGE_PIN_LINK": {
+      "message": "PIN'i değiştir"
+   },
+   "HOME_DAEMON_MANAGE_PAIRINGS": {
+      "message": "Görüntüle/düzenle"
+   },
+   "HOME_DAEMON_PAIRED_MESSAGE": {
+      "message": "Bu bilgisayar PIN girmeden bir veya daha fazla istemcinin bağlanmasına izin verecek şekilde yapılandırılmıştır."
+   },
+   "HOME_DAEMON_START_BUTTON": {
+      "message": "Uzaktan bağlantıları etkinleştir"
+   },
+   "HOME_DAEMON_START_MESSAGE": {
+      "message": "Bu bilgisayara erişmek için Chrome Uzaktan Masaüstü uygulamasını kullanmak istiyorsanız uzaktan bağlantıları etkinleştirmelisiniz."
+   },
+   "HOME_DAEMON_STOP_BUTTON": {
+      "message": "Uzaktan bağlantıları devre dışı bırak"
+   },
+   "HOME_SHARE_BUTTON": {
+      "message": "Paylaş"
+   },
+   "HOME_SHARE_DESCRIPTION": {
+      "message": "Bu bilgisayarı başka bir kullanıcının görmesi ve kontrol etmesi için paylaşın."
+   },
+   "HOME_SHARE_DESCRIPTION_UNSUPPORTED": {
+      "message": "(bu özellik henüz bilgisayarınız için kullanılamıyor)"
+   },
+   "HOST_CATEGORY": {
+      "message": "Ana makine"
+   },
+   "HOST_CLIENT_ACCESS_DENIED": {
+      "message": "Şu istemci için erişim reddedildi: %1."
+   },
+   "HOST_CLIENT_CONNECTED": {
+      "message": "İstemci bağlandı: %1."
+   },
+   "HOST_CLIENT_DISCONNECTED": {
+      "message": "İstemcinin bağlantısı kesildi: %1."
+   },
+   "HOST_CLIENT_ROUTING_CHANGED": {
+      "message": "İstemci için kanal IP'si: %1 ip=\"%2\" host_ip=\"%3\" channel=\"%4\" connection=\"%5\"."
+   },
+   "HOST_LIST_EMPTY_HOSTING_SUPPORTED": {
+      "message": "Başka bir bilgisayara uzaktan bağlantıları etkinleştirmek için Chrome Uzaktan Masaüstü'nü o bilgisayara yükleyin ve “$1” düğmesini tıklayın."
+   },
+   "HOST_LIST_EMPTY_HOSTING_UNSUPPORTED": {
+      "message": "Kayıtlı bilgisayarınız yok. Bir bilgisayara uzaktan bağlantıları etkinleştirmek için Chrome Uzaktan Masaüstü uygulamasını o bilgisayara yükleyin ve “$1” düğmesini tıklayın."
+   },
+   "HOST_LIST_EMPTY_V2_MIGRATION": {
+      "message": "Daha önce $1 ($2) olarak oturum açmıştınız. Bu hesapla bilgisayarlarınıza erişmek için bu hesabı kullanarak $3Google Chrome'da oturum açın$4 ve Chrome Uzaktan Masaüstü'nü yeniden yükleyin."
+   },
+   "HOST_NEEDS_UPDATE_DETAIL": {
+      "message": "Yazılım güncellemeleri genellikle otomatik olarak gerçekleştirilir, ancak bazı nadir durumlarda güncelleme başarısız olabilir. Yazılımın güncellenmesi birkaç dakikadan fazla sürmeyecektir ve bilgisayarınıza uzaktan bağlanılarak yapılabilir."
+   },
+   "HOST_NEEDS_UPDATE_TITLE": {
+      "message": "$1 üzerindeki Chrome Uzaktan Masaüstü eski ve güncellenmesi gerekiyor."
+   },
+   "HOST_SETUP_CRASH_REPORTING_MESSAGE": {
+      "message": "Kullanım istatistiklerini ve kilitlenme raporlarını toplamamıza izin vererek Chrome Uzaktan Masaüstü'nü daha iyi hale getirmemize yardımcı olun."
+   },
+   "HOST_SETUP_DIALOG_DESCRIPTION": {
+      "message": "Bu bilgisayara erişimi korumak için lütfen $1en az altı basamaklı$2 bir PIN seçin. Başka bir yerden bağlanırken bu PIN gerekecektir."
+   },
+   "HOST_SETUP_HOST_FAILED": {
+      "message": "Uzaktan erişim hizmeti başlatılamadı."
+   },
+   "HOST_SETUP_INSTALL": {
+      "message": "Chrome, Chrome Uzaktan Masaüstü Ana Bilgisayar yükleyicisini indiriyor. İndirme işlemi tamamlandığında, devam etmeden önce lütfen yükleyiciyi çalıştırın."
+   },
+   "HOST_SETUP_INSTALL_PENDING": {
+      "message": "Devam etmeden önce lütfen yükleyiciyi çalıştırın."
+   },
+   "HOST_SETUP_STARTED": {
+      "message": "Bu bilgisayar için uzaktan bağlantılar etkinleştirildi."
+   },
+   "HOST_SETUP_STARTED_DISABLE_SLEEP": {
+      "message": "Lütfen bilgisayarınızın güç yönetimi ayarlarını kontrol edin ve boşta kaldığında uyku moduna geçecek şekilde ayarlanmadığından emin olun."
+   },
+   "HOST_SETUP_STARTING": {
+      "message": "Bu bilgisayara uzaktan bağlantılar etkinleştiriliyor…"
+   },
+   "HOST_SETUP_STOPPED": {
+      "message": "Bu bilgisayara uzaktan bağlantılar devre dışı bırakıldı."
+   },
+   "HOST_SETUP_STOPPING": {
+      "message": "Bu bilgisayara uzaktan bağlantılar devre dışı bırakılıyor…"
+   },
+   "HOST_SETUP_STOP_FAILED": {
+      "message": "Bu bilgisayara uzaktan erişim devre dışı bırakılamadı. Lütfen daha sonra tekrar deneyin."
+   },
+   "HOST_SETUP_UPDATED_PIN": {
+      "message": "PIN'iniz güncellendi."
+   },
+   "HOST_SETUP_UPDATE_PIN_FAILED": {
+      "message": "PIN güncellenemedi. Lütfen daha sonra tekrar deneyin."
+   },
+   "HOST_SETUP_UPDATING_PIN": {
+      "message": "Bu bilgisayarın PIN'i güncelleniyor…"
+   },
+   "HOST_STARTED": {
+      "message": "Ana makine bu kullanıcı için başlatıldı: %1."
+   },
+   "HOST_STOPPED": {
+      "message": "Ana makine durdu."
+   },
+   "IDLE_CONTINUE": {
+      "message": "Devam Et"
+   },
+   "IDLE_DISCONNECT": {
+      "message": "Bağlantıyı şimdi kes"
+   },
+   "IDLE_TIMEOUT_WARNING": {
+      "message": "$1 oturumunuz bir süredir etkin değil ve kısa bir süre sonra bağlantısı kesilecek."
+   },
+   "INCOMING_CONNECTIONS": {
+      "message": "Bu bilgisayara"
+   },
+   "INSTRUCTIONS_SHARE_ABOVE": {
+      "message": "Masaüstünüzü paylaşmaya başlamak için, size yardımcı olacak kişiye aşağıdaki erişim kodunu verin."
+   },
+   "INSTRUCTIONS_SHARE_BELOW": {
+      "message": "Kullanıcı, kodu girdiğinde paylaşım oturumunuz başlar."
+   },
+   "INVALID_PIN": {
+      "message": "Lütfen altı veya daha fazla basamaklı bir PIN kodu girin."
+   },
+   "IT2ME_FIRST_RUN": {
+      "message": "Kullanıcılar arası ekran paylaşımı, uzaktan teknik destek için mükemmeldir."
+   },
+   "KEYBOARD_LAYOUTS_SUBMENU_TITLE": {
+      "message": "Klavye düzenleri"
+   },
+   "LABEL_CONNECTED": {
+      "message": "Bağlı:"
+   },
+   "LAST_ONLINE": {
+      "message": "$1 (son çevrimiçi olma zamanı: $2)"
+   },
+   "LEARN_HOW": {
+      "message": "Nasıl yapıldığını öğrenin."
+   },
+   "LEARN_MORE": {
+      "message": "Daha fazla bilgi edinin."
+   },
+   "MAC_PREFPANE_BUNDLE_NAME": {
+      "message": "Chrome Uzaktan Masaüstü Ana Makine Tercihleri"
+   },
+   "MAC_PREFPANE_ICON_LABEL": {
+      "message": "Chrome Uzaktan\nMasaüstü Ana Makinesi"
+   },
+   "MAC_UNINSTALLER_BUNDLE_NAME": {
+      "message": "Chrome Uzaktan Masaüstü Ana Makine Yüklemesini Kaldırma Programı"
+   },
+   "MAXIMIZE_WINDOW": {
+      "message": "Pencereyi ekranı kaplayacak şekilde büyüt"
+   },
+   "ME2ME_FIRST_RUN": {
+      "message": "Bilgisayarınıza her yerden erişin."
+   },
+   "MESSAGE_GENERATING": {
+      "message": "Erişim kodu oluşturuluyor..."
+   },
+   "MESSAGE_SESSION_FINISHED": {
+      "message": "Chrome Uzaktan Masaüstü oturumunuz sonlandı."
+   },
+   "MESSAGE_SHARED": {
+      "message": "Masaüstünüz şu anda $1 ile paylaşılıyor."
+   },
+   "MINIMIZE_WINDOW": {
+      "message": "Pencereyi simge durumuna küçült"
+   },
+   "MODE_AUTHORIZE": {
+      "message": "Yetkilendir"
+   },
+   "MODE_IT2ME": {
+      "message": "Uzaktan Yardım"
+   },
+   "MODE_ME2ME": {
+      "message": "Bilgisayarlarım"
+   },
+   "NEW_CONNECTION": {
+      "message": "Yeni bağlantı"
+   },
+   "NEW_WINDOW": {
+      "message": "Yeni pencere…"
+   },
+   "NO_PAIRED_CLIENTS": {
+      "message": "Eşlenen tüm istemciler silindi."
+   },
+   "NO_TRANSPARENCY_WARNING": {
+      "message": "Masaüstü entegrasyonu bu platformda desteklenmiyor. Uygulamayı kullanmaya devam edebilirsiniz, ancak kullanıcı deneyimi olumsuz etkilenecektir."
+   },
+   "OFFLINE": {
+      "message": "$1 (çevrimdışı)"
+   },
+   "OFFLINE_REASON_INITIALIZATION_FAILED": {
+      "message": "Ana makinenin ilk kullanıma hazırlanması başarısız oldu."
+   },
+   "OFFLINE_REASON_INVALID_HOST_CONFIGURATION": {
+      "message": "Ana makinenin yapılandırması geçersiz."
+   },
+   "OFFLINE_REASON_INVALID_HOST_DOMAIN": {
+      "message": "Ana makinenin sahip alan adı geçersiz."
+   },
+   "OFFLINE_REASON_INVALID_HOST_ID": {
+      "message": "Ana makine kimliği geçersiz."
+   },
+   "OFFLINE_REASON_INVALID_OAUTH_CREDENTIALS": {
+      "message": "Ana makine, geçersiz OAuth kimlik bilgileriyle yapılandırılmış."
+   },
+   "OFFLINE_REASON_LOGIN_SCREEN_NOT_SUPPORTED": {
+      "message": "Konsol mantık ekranında çalışan ana makine, kullanıcı tanımlı oturumda çalışan bir ana makineye geçerek perde modunu desteklemek için kapandı."
+   },
+   "OFFLINE_REASON_UNKNOWN": {
+      "message": "Tanınmayan ana makine hatası: $1."
+   },
+   "OFFLINE_REASON_USERNAME_MISMATCH": {
+      "message": "Ana makinenin sahibi geçersiz."
+   },
+   "OK": {
+      "message": "Tamam"
+   },
+   "OPTIONS_MENU": {
+      "message": "Seçenekler"
+   },
+   "OUTGOING_CONNECTIONS": {
+      "message": "Bu bilgisayardan"
+   },
+   "PAIRED_CLIENTS_INTRODUCTION": {
+      "message": "Aşağıdaki istemciler bu bilgisayarla eşlendi ve bir PIN sağlamadan bağlanabilir. Bu izni, istediğiniz zaman tek tek veya tüm istemciler için iptal edebilirsiniz."
+   },
+   "PAIRED_CLIENT_DATE": {
+      "message": "Eşleme tarihi"
+   },
+   "PAIRED_CLIENT_NAME": {
+      "message": "İstemci"
+   },
+   "PIN": {
+      "message": "PIN"
+   },
+   "PINS_NOT_EQUAL": {
+      "message": "Lütfen her iki kutuya da aynı PIN'i girin."
+   },
+   "PIN_MESSAGE": {
+      "message": "Lütfen $1 için PIN'inizi girin."
+   },
+   "PIN_MESSAGE_ANDROID": {
+      "message": "Lütfen uzak bilgisayara ilişkin PIN'inizi girin."
+   },
+   "PRODUCT_DESCRIPTION": {
+      "message": "İnternet üzerinden güvenli bir şekilde diğer bilgisayarlara erişin veya başka kullanıcıların bilgisayarınıza erişmesine izin verin."
+   },
+   "PRODUCT_NAME": {
+      "message": "Chrome Uzaktan Masaüstü"
+   },
+   "PRODUCT_NAME_APP_STREAMING": {
+      "message": "Chrome Uygulama Akışı"
+   },
+   "RECONNECT": {
+      "message": "Yeniden bağlan"
+   },
+   "REMEMBER_PIN": {
+      "message": "Bu cihazdan bu ana makineye bağlantı kurarken bir daha PIN sorma."
+   },
+   "REMOTING_CORE_DESCRIPTION": {
+      "message": "Çekirdek Kitaplığı"
+   },
+   "REMOTING_DESKTOP_DESCRIPTION": {
+      "message": "Masaüstü Entegrasyon İşlemi"
+   },
+   "REMOTING_HOST_COMMAND_DESCRIPTION": {
+      "message": "Chrome uzaktan masaüstü ana makinesine komutları verecek uygulama."
+   },
+   "REMOTING_HOST_DESCRIPTION": {
+      "message": "Ana Makine İşlemi"
+   },
+   "REMOTING_NATIVE_MESSAGING_HOST_DESCRIPTION": {
+      "message": "Remoting ana bilgisayar yönetimi için yerel mesajlaşma ana makinesi"
+   },
+   "REMOTING_REMOTE_ASSISTANCE_HOST_DESCRIPTION": {
+      "message": "Uzaktan yardım için yerel mesajlaşma ana makinesi"
+   },
+   "RESIZE_TO_CLIENT": {
+      "message": "Masaüstünü uygun şekilde yeniden boyutlandır"
+   },
+   "RESTORE_WINDOW": {
+      "message": "Pencereyi geri yükle"
+   },
+   "RETRY": {
+      "message": "Yeniden Dene"
+   },
+   "SCREEN_OPTIONS": {
+      "message": "Ekran seçenekleri"
+   },
+   "SEND_CTRL_ALT_DEL": {
+      "message": "Ctrl-Alt-Del Gönder"
+   },
+   "SEND_FEEDBACK": {
+      "message": "Sorun bildir…"
+   },
+   "SEND_KEYS": {
+      "message": "Tuşları gönder"
+   },
+   "SEND_PRINT_SCREEN": {
+      "message": "PrtScn Gönder"
+   },
+   "SERVICE_DESCRIPTION": {
+      "message": "Bu hizmet Chrome Uzaktan Masaüstü istemcilerinden gelen bağlantıları etkinleştirir."
+   },
+   "SETTING_MANAGED_BY_POLICY": {
+      "message": "Bu ayar, alan adı politikanız tarafından yönetilir."
+   },
+   "SHARE_CONFIRM_DIALOG_CONFIRM": {
+      "message": "Paylaş"
+   },
+   "SHARE_CONFIRM_DIALOG_DECLINE": {
+      "message": "İptal"
+   },
+   "SHARE_CONFIRM_DIALOG_MESSAGE": {
+      "message": "Bu bilgisayarı başka bir kullanıcının görmesi ve kontrol etmesi için paylaşmak istiyor musunuz?"
+   },
+   "SHOW_STATS": {
+      "message": "İstatistikleri göster"
+   },
+   "SHOW_STATS_WITH_RTT": {
+      "message": "İstatistikleri göster (bağlantı: $1)"
+   },
+   "SHRINK_TO_FIT": {
+      "message": "Sığacak şekilde küçült"
+   },
+   "SIGN_IN_BUTTON": {
+      "message": "Oturum açın"
+   },
+   "SIGN_OUT_BUTTON": {
+      "message": "Çıkış"
+   },
+   "START_RECORDING": {
+      "message": "Kaydı Başlat"
+   },
+   "STOP_RECORDING": {
+      "message": "Kaydı Durdur"
+   },
+   "STOP_SHARING_BUTTON": {
+      "message": "Paylaşmayı Durdur"
+   },
+   "SURVEY_INVITATION": {
+      "message": "Chrome Uzaktan Masaüstü'nü daha iyi hale getirmeye yardımcı olmak ister misiniz? $1Ankete katılın.$2"
+   },
+   "TIME_HEADER": {
+      "message": "Zaman"
+   },
+   "TOOLTIP_CONNECT": {
+      "message": "$1 adlı ana bilgisayara bağlan"
+   },
+   "TOOLTIP_DELETE": {
+      "message": "Bu bilgisayara uzaktan bağlantıları devre dışı bırak"
+   },
+   "TOOLTIP_REFRESH": {
+      "message": "Ana makine listesini yenile"
+   },
+   "TOOLTIP_RENAME": {
+      "message": "Bilgisayarın adını düzenle"
+   },
+   "UPDATE_REQUIRED": {
+      "message": "$1 (eski)"
+   },
+   "VERIFY_PIN_DIALOG_EMAIL_LABEL": {
+      "message": "Hesap"
+   },
+   "VERIFY_PIN_DIALOG_MESSAGE": {
+      "message": "Chrome Uzaktan Masaüstü tarafından erişime izin vermek için lütfen aşağıda hesabınızı ve PIN kodunuzu onaylayın."
+   },
+   "WARNING_NAT_DISABLED": {
+      "message": "NOT: Politika ayarları, yalnızca ağınızdaki bilgisayarlar arasındaki bağlantılara izin veriyor."
+   },
+   "WARNING_NOT_WINDOWED": {
+      "message": "NOT: Tüm klavye kısayollarının kullanılabilir olmasını sağlamak için Chrome Uzaktan Masaüstü'nü 'Pencere olarak aç' modunda yapılandırabilirsiniz."
+   },
+   "WHY_IS_THIS_SAFE": {
+      "message": "Bu işlem neden güvenli?"
+   },
+   "WINDOWS_SUBMENU_TITLE": {
+      "message": "Windows"
+   },
+   "WORKING": {
+      "message": "Çalışıyor..."
+   }
+}
